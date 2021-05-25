@@ -1,0 +1,89 @@
+
+	(Comment
+		(Time 10/07/08,11:11:36)
+		(User wangfag)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_1 has been updated to 1.0.0")
+		(Param1 sym_1)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 10/07/08,11:11:36)
+		(User wangfag)
+		(MsgId ECO_333)
+		(Text "Revision for package BAT_2P has been updated to 1.0.0")
+		(Param1 BAT_2P)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 10/07/08,11:11:36)
+		(User wangfag)
+		(MsgId ECO_331)
+		(Text "Revision for cell bat_2p has been updated to 1.0.0")
+		(Param1 bat_2p)
+		(Param2 1.0.0)
+	)
+
+	(Comment
+		(Time 10/07/08,12:22:12)
+		(User wangfag)
+		(MsgId ECO_094)
+		(Text "Graphics in symbol  modified")
+		(Param1 )
+	)
+	(Comment
+		(Time 10/07/08,12:22:13)
+		(User wangfag)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_1 has been updated to 1.1.0")
+		(Param1 sym_1)
+		(Param2 1.1.0)
+	)
+	(Comment
+		(Time 10/07/08,12:22:13)
+		(User wangfag)
+		(MsgId ECO_331)
+		(Text "Revision for cell bat_2p has been updated to 1.1.0")
+		(Param1 bat_2p)
+		(Param2 1.1.0)
+	)
+
+
+
+
+
+	(Comment
+		(Time 09/30/16,15:09:44)
+		(User wy)
+		(MsgId ECO_998)
+		(Text "Accos ID    : 10040206
+Comments    :")
+		(Param1 "Accos ID    : 10040206
+Comments    :")
+	)
+	(Comment
+		(Time 09/30/16,15:09:53)
+		(User wyan)
+		(MsgId ECO_331)
+		(Text "Revision for cell bat_2p has been updated to 1.2.0")
+		(Param1 "bat_2p")
+		(Param2 "1.2.0")
+	)
+
+	(Comment
+		(Time 09/25/18,14:48:57)
+		(User wcy)
+		(MsgId ECO_998)
+		(Text "Accos ID    : 10052506
+Comments    :")
+		(Param1 "Accos ID    : 10052506
+Comments    :")
+	)
+	(Comment
+		(Time 09/25/18,14:49:01)
+		(User weichao)
+		(MsgId ECO_331)
+		(Text "Revision for cell bat_2p has been updated to 1.4.0")
+		(Param1 "bat_2p")
+		(Param2 "1.4.0")
+	)

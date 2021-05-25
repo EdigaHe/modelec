@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist date="Sat Mar 27 22:54:07 2021" sketch="LED-Many.fz">
+ <net>
+  <connector id="connector0" name="A">
+   <part title="LEDs" id="854351290" label="LED6"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part title="LEDs" id="137290" label="LED2"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="1">
+   <part title="VARISTOR" id="138790" label="Z2"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part title="LEDs" id="854351270" label="LED5"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part title="LEDs" id="137260" label="LED1"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part title="LEDs" id="854350970" label="LED3"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part title="LEDs" id="854350970" label="LED3"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part title="LEDs" id="854351010" label="LED4"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector2" name="-">
+   <part title="Battery Holders" id="141730" label="BAT1"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part title="LEDs" id="854351290" label="LED6"/>
+  </connector>
+  <connector id="connector1" name="C">
+   <part title="LEDs" id="854351010" label="LED4"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="C">
+   <part title="LEDs" id="854351270" label="LED5"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part title="LEDs" id="137290" label="LED2"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector0" name="1">
+   <part title="VARISTOR" id="138760" label="Z1"/>
+  </connector>
+  <connector id="connector0" name="A">
+   <part title="LEDs" id="137260" label="LED1"/>
+  </connector>
+ </net>
+ <net>
+  <connector id="connector1" name="+">
+   <part title="Battery Holders" id="141730" label="BAT1"/>
+  </connector>
+  <connector id="connector1" name="2">
+   <part title="VARISTOR" id="138790" label="Z2"/>
+  </connector>
+  <connector id="connector1" name="2">
+   <part title="VARISTOR" id="138760" label="Z1"/>
+  </connector>
+ </net>
+</netlist>

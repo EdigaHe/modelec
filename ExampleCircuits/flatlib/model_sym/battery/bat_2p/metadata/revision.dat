@@ -1,0 +1,198 @@
+(Cell	bat_2p
+
+	(RevisionInfoBlock	
+
+		(Baselined	1)
+
+		(Revision	1.4.0)
+
+		(ModificationStatus	NULL)
+
+		(Status	Baselined)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/07/08,11:11:32)
+
+			(User	wangfag)
+
+			(Path	battery.bat_2p)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	10/07/08,12:22:13)
+
+			(User	wangfag)
+
+			(Path	battery.bat_2p)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(RevisionInfoBlock	
+
+				(Baselined	1)
+
+				(Revision	1.0.0)
+
+				(ModificationStatus	NULL)
+
+				(Status	Baselined)
+
+				(ErrorStatus	0)
+
+				(CreateInfo	
+
+					(Time	)
+
+					(User	)
+
+					(Path	)
+
+				)
+
+			)
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000da679b2e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.1.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/07/08,11:11:32)
+
+							(User	wangfag)
+
+							(Path	battery.bat_2p)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc103e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ed869685)
+
+			(Primitives	1
+
+				(Primitive	BAT_2P
+
+					(RevisionInfoBlock	
+
+						(Baselined	1)
+
+						(Revision	1.0.0)
+
+						(ModificationStatus	NULL)
+
+						(Status	Baselined)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/07/08,11:11:32)
+
+							(User	wangfag)
+
+							(Path	battery.bat_2p)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	BAT_2P
+
+							(PackType	BAT_2P)
+
+							(PackType	BAT_2P_PTH)
+
+							(PackType	BAT_2P_SMD)
+
+						)
+
+					)
+
+					(Packages	3
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c2603b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	Unreleased (3703331))
+
+		(License	PCB_Library_Manager)
+
+	)
+
+	(Checksum	000000001b940372)
+
+)
+

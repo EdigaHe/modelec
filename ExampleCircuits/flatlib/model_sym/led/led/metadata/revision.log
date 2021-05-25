@@ -1,0 +1,328 @@
+
+	(Comment
+		(Time 03/15/06,17:27:40)
+		(User barthopa)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_1 has been updated to 1.0.0")
+		(Param1 sym_1)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 03/15/06,17:27:40)
+		(User barthopa)
+		(MsgId ECO_333)
+		(Text "Revision for package LED has been updated to 1.0.0")
+		(Param1 LED)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 03/15/06,17:27:40)
+		(User barthopa)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 1.0.0")
+		(Param1 led)
+		(Param2 1.0.0)
+	)
+
+
+	(Comment
+		(Time 03/16/06,11:23:20)
+		(User barthopa)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_2 has been updated to 1.0.0")
+		(Param1 sym_2)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 03/16/06,11:23:20)
+		(User barthopa)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_4 has been updated to 1.0.0")
+		(Param1 sym_4)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 03/16/06,11:23:20)
+		(User barthopa)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_3 has been updated to 1.0.0")
+		(Param1 sym_3)
+		(Param2 1.0.0)
+	)
+
+
+
+
+
+
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_124)
+		(Text "Pin location has been modified from Left to Bottom for pin K in symbol sym_4")
+		(Param1 Left)
+		(Param2 Bottom)
+		(Param3 K)
+		(Param4 sym_4)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_124)
+		(Text "Pin location has been modified from Right to Top for pin A in symbol sym_4")
+		(Param1 Right)
+		(Param2 Top)
+		(Param3 A)
+		(Param4 sym_4)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_094)
+		(Text "Graphics in symbol  modified")
+		(Param1 )
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_124)
+		(Text "Pin location has been modified from Bottom to Right for pin K in symbol sym_3")
+		(Param1 Bottom)
+		(Param2 Right)
+		(Param3 K)
+		(Param4 sym_3)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_124)
+		(Text "Pin location has been modified from Top to Left for pin A in symbol sym_3")
+		(Param1 Top)
+		(Param2 Left)
+		(Param3 A)
+		(Param4 sym_3)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_094)
+		(Text "Graphics in symbol  modified")
+		(Param1 )
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_124)
+		(Text "Pin location has been modified from Right to Left for pin K in symbol sym_1")
+		(Param1 Right)
+		(Param2 Left)
+		(Param3 K)
+		(Param4 sym_1)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_124)
+		(Text "Pin location has been modified from Left to Right for pin A in symbol sym_1")
+		(Param1 Left)
+		(Param2 Right)
+		(Param3 A)
+		(Param4 sym_1)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_094)
+		(Text "Graphics in symbol  modified")
+		(Param1 )
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_3 has been updated to 2.0.0")
+		(Param1 sym_3)
+		(Param2 2.0.0)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_1 has been updated to 2.0.0")
+		(Param1 sym_1)
+		(Param2 2.0.0)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_332)
+		(Text "Revision for symbol sym_4 has been updated to 2.0.0")
+		(Param1 sym_4)
+		(Param2 2.0.0)
+	)
+	(Comment
+		(Time 09/13/06,09:15:05)
+		(User barthopa)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 2.0.0")
+		(Param1 led)
+		(Param2 2.0.0)
+	)
+
+
+
+
+
+
+
+
+	(Comment
+		(Time 10/09/07,16:42:29)
+		(User yangwen)
+		(MsgId ECO_030)
+		(Text "Alias LED_PTH added to package LED")
+		(Param1 LED_PTH)
+		(Param2 LED)
+	)
+	(Comment
+		(Time 10/09/07,16:42:29)
+		(User yangwen)
+		(MsgId ECO_333)
+		(Text "Revision for package LED has been updated to 1.1.0")
+		(Param1 LED)
+		(Param2 1.1.0)
+	)
+	(Comment
+		(Time 10/09/07,16:42:29)
+		(User yangwen)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 2.1.0")
+		(Param1 led)
+		(Param2 2.1.0)
+	)
+
+
+
+	(Comment
+		(Time 12/03/07,10:23:47)
+		(User waqing)
+		(MsgId ECO_021)
+		(Text "Package LED_1 added to cell")
+		(Param1 LED_1)
+	)
+	(Comment
+		(Time 12/03/07,10:42:02)
+		(User waqing)
+		(MsgId ECO_333)
+		(Text "Revision for package LED_SMD3 has been updated to 1.0.0")
+		(Param1 LED_SMD3)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 12/03/07,10:42:02)
+		(User waqing)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 3.0.0")
+		(Param1 led)
+		(Param2 3.0.0)
+	)
+
+	(Comment
+		(Time 03/26/08,13:14:25)
+		(User chenwei)
+		(MsgId ECO_021)
+		(Text "Package LED_1 added to cell")
+		(Param1 LED_1)
+	)
+	(Comment
+		(Time 03/26/08,13:16:27)
+		(User chenwei)
+		(MsgId ECO_333)
+		(Text "Revision for package LED_SMDA has been updated to 1.0.0")
+		(Param1 LED_SMDA)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 03/26/08,13:16:27)
+		(User chenwei)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 4.0.0")
+		(Param1 led)
+		(Param2 4.0.0)
+	)
+
+	(Comment
+		(Time 05/05/08,13:12:46)
+		(User yangwen)
+		(MsgId USR)
+		(Text "Replaced JEDEC_TYPE from SLED_L200W125H110A to SLED_L200W125H85A for 1990-3825 per HPDL_CHG.37886")
+	)
+
+
+	(Comment
+		(Time 02/25/09,12:33:19)
+		(User huajinli)
+		(MsgId ECO_021)
+		(Text "Package LED_1 added to cell")
+		(Param1 LED_1)
+	)
+	(Comment
+		(Time 02/25/09,12:36:07)
+		(User huajinli)
+		(MsgId ECO_333)
+		(Text "Revision for package LED_SMDA has been updated to 1.0.0")
+		(Param1 LED_SMDA)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 02/25/09,12:36:07)
+		(User huajinli)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 5.0.0")
+		(Param1 led)
+		(Param2 5.0.0)
+	)
+
+
+
+	(Comment
+		(Time 01/21/10,15:15:37)
+		(User huajinli)
+		(MsgId ECO_021)
+		(Text "Package LED_SMD31 added to cell")
+		(Param1 LED_SMD31)
+	)
+	(Comment
+		(Time 01/21/10,15:19:52)
+		(User huajinli)
+		(MsgId ECO_333)
+		(Text "Revision for package LED_SMD3A has been updated to 1.0.0")
+		(Param1 LED_SMD3A)
+		(Param2 1.0.0)
+	)
+	(Comment
+		(Time 01/21/10,15:19:52)
+		(User huajinli)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 6.0.0")
+		(Param1 led)
+		(Param2 6.0.0)
+	)
+
+	(Comment
+		(Time 12/4/13,13:25:30)
+		(User zd)
+		(MsgId ECO_998)
+		(Text "Accos ID    : 10026087
+Comments    :")
+		(Param1 "Accos ID    : 10026087
+Comments    :")
+	)
+	(Comment
+		(Time 12/04/13,13:25:34)
+		(User zhadan)
+		(MsgId ECO_331)
+		(Text "Revision for cell led has been updated to 6.1.0")
+		(Param1 "led")
+		(Param2 "6.1.0")
+	)

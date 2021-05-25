@@ -1,0 +1,10 @@
+"model_sym"
+{
+	"battery"
+	{
+		"library battery_1"
+		{
+			"bat_2p"
+		}
+	}
+}

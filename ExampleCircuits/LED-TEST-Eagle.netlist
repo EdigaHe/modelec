@@ -1,0 +1,22 @@
+Netlist
+
+Exported from LED-TEST-Eagle.sch at 10/26/2020 6:02 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Net      Part     Pad      Pin        Sheet
+
+N$1      G2       +        +          1
+         R1       1        1          1
+         R2       1        1          1
+
+N$2      LED2     A        A          1
+         R2       2        2          1
+
+N$3      LED1     A        A          1
+         R1       2        2          1
+
+N$4      G2       -        -          1
+         LED1     C        C          1
+         LED2     C        C          1
+
