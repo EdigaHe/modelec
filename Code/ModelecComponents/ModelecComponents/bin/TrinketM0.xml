@@ -1,0 +1,62 @@
+﻿<part>
+    <pin>
+        <name>connector60 (!RESET)</name>
+        <x>-5.96900003814697</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector59 (D3_A3_PA07_RXD_SCK)</name>
+        <x>-3.42900003814697</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector58 (D4_A2_PA06_TXD_MOSI)</name>
+        <x>-0.889000038146968</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector57 (GND)</name>
+        <x>1.65099996185303</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector56 (VBAT)</name>
+        <x>4.19099996185303</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector65 (VBUS)</name>
+        <x>4.19099996185303</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector64 (D0_A4_PA08_SDA)</name>
+        <x>1.65099996185303</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector63 (D1_A0_PA02)</name>
+        <x>-0.889000038146968</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector62 (D2_A1_PA09_SCL_MISO)</name>
+        <x>-3.42900003814697</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector61 (3.3V)</name>
+        <x>-5.96900003814697</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+</part>

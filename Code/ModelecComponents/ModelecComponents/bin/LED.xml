@@ -1,0 +1,14 @@
+﻿<part>
+    <pin>
+        <name>connector0 (A)</name>
+        <x>-0.9</x>
+        <y>-2.38418578213384E-08</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector1 (C)</name>
+        <x>0.9</x>
+        <y>-2.38418578213384E-08</y>
+        <z>0</z>
+    </pin>
+</part>

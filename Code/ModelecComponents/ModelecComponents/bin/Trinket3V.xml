@@ -1,0 +1,62 @@
+﻿<part>
+    <pin>
+        <name>connector30 (RESET)</name>
+        <x>-5.805</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector29 (#3)</name>
+        <x>-3.265</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector28 (#4)</name>
+        <x>-0.724999999999999</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector27 (GND)</name>
+        <x>1.815</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector26 (VBAT)</name>
+        <x>4.355</x>
+        <y>6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector31 (VBUS)</name>
+        <x>4.355</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector32 (#0)</name>
+        <x>1.815</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector33 (#1)</name>
+        <x>-0.724999999999999</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector34 (#2)</name>
+        <x>-3.265</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+    <pin>
+        <name>connector35 (+3V3)</name>
+        <x>-5.805</x>
+        <y>-6.35</y>
+        <z>0</z>
+    </pin>
+</part>

@@ -1,0 +1,200 @@
+﻿<part>
+    <pin>
+        <name>connector67 (VBAT)</name>
+        <x>-16.23</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector68 (GND)</name>
+        <x>-13.69</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector69 (VBUS)</name>
+        <x>-11.15</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector70 (D13)</name>
+        <x>-8.61</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector71 (D12)</name>
+        <x>-6.07</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector72 (D11)</name>
+        <x>-3.53</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector73 (D10)</name>
+        <x>-0.990000000000006</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector74 (D9)</name>
+        <x>1.54999999999999</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector75 (D7)</name>
+        <x>4.08999999999999</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector76 (D5)</name>
+        <x>6.62999999999999</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector77 (SCL)</name>
+        <x>9.16999999999999</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector78 (SDA)</name>
+        <x>11.71</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector79 (D1)</name>
+        <x>14.25</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector80 (D0)</name>
+        <x>16.79</x>
+        <y>7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector62 (D4)</name>
+        <x>16.79</x>
+        <y>5.19</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector63 (D6)</name>
+        <x>16.79</x>
+        <y>2.65</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector64 (D8)</name>
+        <x>16.79</x>
+        <y>0.11</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector65 (GND)</name>
+        <x>16.79</x>
+        <y>-2.43</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector66 (EN)</name>
+        <x>16.79</x>
+        <y>-4.97</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector81 (3.3V)</name>
+        <x>16.79</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector82 (MISO)</name>
+        <x>14.25</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector83 (MOSI)</name>
+        <x>11.71</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector84 (SCK)</name>
+        <x>9.16999999999999</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector85 (A5)</name>
+        <x>6.62999999999999</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector86 (A4)</name>
+        <x>4.08999999999999</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector87 (A3)</name>
+        <x>1.54999999999999</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector88 (A2)</name>
+        <x>-0.990000000000006</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector89 (A1)</name>
+        <x>-3.53</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector90 (A0)</name>
+        <x>-6.07</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector91 (GND)</name>
+        <x>-8.61</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector92 (AREF)</name>
+        <x>-11.15</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector93 (+5V)</name>
+        <x>-13.69</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+    <pin>
+        <name>connector94 (RST)</name>
+        <x>-16.23</x>
+        <y>-7.73</y>
+        <z>8.88178419700125E-16</z>
+    </pin>
+</part>

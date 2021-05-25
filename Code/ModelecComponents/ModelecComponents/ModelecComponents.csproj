@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F00EA7E9-92FB-4DA0-B697-422D61AACA41}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ModelecComponents</RootNamespace>
+    <AssemblyName>ModelecComponents</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GemBox.Pdf, Version=15.0.0.1033, Culture=neutral, PublicKeyToken=b1b72c69714d4847, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dll\GemBox.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="HumanUI">
+      <HintPath>..\..\humanui\HumanUI\HumanUI\bin\HumanUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="HumanUIBaseApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\dll\HumanUIBaseApp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="RhinoCommon">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Rhino 6\System\RhinoCommon.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Grasshopper">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\McNeel\Rhinoceros\5.0\Plug-ins\Grasshopper (b45a29b1-4343-4035-989e-044e8580d9cf)\0.9.76.0\Grasshopper.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GH_IO">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Common Files\McNeel\Rhinoceros\5.0\Plug-ins\Grasshopper (b45a29b1-4343-4035-989e-044e8580d9cf)\0.9.76.0\GH_IO.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="3DPartParaControlComponent.cs" />
+    <Compile Include="3DPZNegMoveComponent.cs" />
+    <Compile Include="3DPZPosMoveComponent.cs" />
+    <Compile Include="3DPYPosMoveComponent.cs" />
+    <Compile Include="3DPYNegMoveComponent.cs" />
+    <Compile Include="3DPXPosMoveComponent.cs" />
+    <Compile Include="3DPXNegMoveComponent.cs" />
+    <Compile Include="A-star\AStarHelper.cs" />
+    <Compile Include="A-star\VoxClass.cs" />
+    <Compile Include="Creator\AddPadComponent.cs" />
+    <Compile Include="Creator\CreatorData.cs" />
+    <Compile Include="Creator\PadInfo.cs" />
+    <Compile Include="Creator\SaveComponent.cs" />
+    <Compile Include="Creator\UpdateComponent.cs" />
+    <Compile Include="Delete3DPrintedPartComponent.cs" />
+    <Compile Include="HideTracesComponent.cs" />
+    <Compile Include="LoadCustomComponentModelComponent.cs" />
+    <Compile Include="errorWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="errorWindows.Designer.cs">
+      <DependentUpon>errorWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Part3DP.cs" />
+    <Compile Include="Add3DPPartComponent.cs" />
+    <Compile Include="AutoRouteCommand.cs" />
+    <Compile Include="CircuitLoadComponent.cs" />
+    <Compile Include="ClearPartsComponent.cs" />
+    <Compile Include="ClearTracesComponent.cs" />
+    <Compile Include="ConnectionNet.cs" />
+    <Compile Include="DeleteOneTraceComponent.cs" />
+    <Compile Include="Helpers\JSONHelpers.cs" />
+    <Compile Include="Helpers\XmlHelpers.cs" />
+    <Compile Include="ManualRouteComponent.cs" />
+    <Compile Include="ModelecComponentsInfo.cs" />
+    <Compile Include="NudgeBottomComponent.cs" />
+    <Compile Include="NudgeLeftComponent.cs" />
+    <Compile Include="NudgeRightComponent.cs" />
+    <Compile Include="NudgeTopComponent.cs" />
+    <Compile Include="ParseSpotlightComponent.cs" />
+    <Compile Include="Part2D.cs" />
+    <Compile Include="Part3D.cs" />
+    <Compile Include="PartExpComponent.cs" />
+    <Compile Include="ConPreviewComponent.cs" />
+    <Compile Include="PartFlipComponent.cs" />
+    <Compile Include="PartHideComponent.cs" />
+    <Compile Include="PartParserComponent.cs" />
+    <Compile Include="PartRotateComponent.cs" />
+    <Compile Include="Helpers\PartValidationHelper.cs" />
+    <Compile Include="PrinterProfile.cs" />
+    <Compile Include="PrintProfileParserComponent.cs" />
+    <Compile Include="oobWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oobWindows.Designer.cs">
+      <DependentUpon>oobWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaveComponent.cs" />
+    <Compile Include="Select3DPrintedPartFromListComponent.cs" />
+    <Compile Include="SelectTraceFromListComponent.cs" />
+    <Compile Include="SetPart3DPrintableComponent.cs" />
+    <Compile Include="UpdateTraceListComponent.cs" />
+    <Compile Include="Update3DPListComponent.cs" />
+    <Compile Include="ValidationWarningWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidationWarningWin.Designer.cs">
+      <DependentUpon>ValidationWarningWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessingWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessingWindow.Designer.cs">
+      <DependentUpon>ProcessingWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Routing\Route.cs" />
+    <Compile Include="Routing\Location.cs" />
+    <Compile Include="SetPartPosComponent.cs" />
+    <Compile Include="SharedData.cs" />
+    <Compile Include="StackedButtonsComponent.cs" />
+    <Compile Include="TargetBody.cs" />
+    <Compile Include="Trace.cs" />
+    <Compile Include="ValidatePartsComponent.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="errorWindows.resx">
+      <DependentUpon>errorWindows.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oobWindows.resx">
+      <DependentUpon>oobWindows.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidationWarningWin.resx">
+      <DependentUpon>ValidationWarningWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessingWindow.resx">
+      <DependentUpon>ProcessingWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>Copy "$(TargetPath)" "$(TargetDir)$(ProjectName).gha"
+Erase "$(TargetPath)"</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <FallbackCulture>en-US</FallbackCulture>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartProgram>C:\Program Files\Rhinoceros 5 (64-bit)\System\Rhino.exe</StartProgram>
+    <StartArguments>
+    </StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+</Project>

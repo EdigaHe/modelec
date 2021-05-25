@@ -1,0 +1,14 @@
+﻿<part>
+    <pin>
+        <name>connector0 (cathode)</name>
+        <x>-3.77</x>
+        <y>0</y>
+        <z>2.38418582654276E-08</z>
+    </pin>
+    <pin>
+        <name>connector1 (anode)</name>
+        <x>3.77</x>
+        <y>0</y>
+        <z>2.38418582654276E-08</z>
+    </pin>
+</part>

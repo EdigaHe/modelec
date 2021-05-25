@@ -1,0 +1,26 @@
+﻿<part>
+    <pin>
+        <name>connector29 (VCC)</name>
+        <x>-10.26</x>
+        <y>-6.36</y>
+        <z>-2.3</z>
+    </pin>
+    <pin>
+        <name>connector31 (GND)</name>
+        <x>-5.18</x>
+        <y>-6.36</y>
+        <z>-2.3</z>
+    </pin>
+    <pin>
+        <name>connector32 (SCL)</name>
+        <x>-2.64</x>
+        <y>-6.36</y>
+        <z>-2.3</z>
+    </pin>
+    <pin>
+        <name>connector33 (SDA)</name>
+        <x>-0.100000000000001</x>
+        <y>-6.36</y>
+        <z>-2.3</z>
+    </pin>
+</part>
